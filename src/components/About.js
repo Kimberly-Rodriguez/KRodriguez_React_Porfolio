@@ -1,5 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
+export default function About() {
+  return (
 <section id="about">
 <h1>About</h1>
 <div>
@@ -30,3 +32,5 @@ import React, { useState } from 'react';
   <br />
 </div>
 </section>
+  );
+}

@@ -1,3 +1,8 @@
+import React from 'react';
+
+export default function Portfolio() {
+  return (
+
 <section id="work">
 <h1>Work</h1>
 <div>
@@ -70,3 +75,6 @@ target="_blank"
   
 </div>
 </section>
+
+);
+}
