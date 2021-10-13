@@ -6,7 +6,7 @@ import Resume from './components/Resume';
 
 function App() {
   return (
-    <div className="section-app">
+    <div className="portfolio-app">
       <AboutMe />
       <Portfolio />
       <Contact />
