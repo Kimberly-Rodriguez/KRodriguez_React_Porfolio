@@ -1,3 +1,5 @@
+import React, { useState } from 'react';
+
 <section id="about">
 <h1>About</h1>
 <div>
