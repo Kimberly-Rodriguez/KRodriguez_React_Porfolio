@@ -6,6 +6,9 @@ import '../App.css';
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <header>
+       <div className="title">
+        <h1>Kimberly Rodriguez</h1>
+      </div>
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a

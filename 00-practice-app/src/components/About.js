@@ -1,12 +1,15 @@
 import React from 'react';
 import '../App.css';
+import headshot from '../images/headshot.png'
+
 
 export default function About() {
   return (
 <section id="about">
 <h1>About</h1>
 <div>
-  <img id="headshot" src="assets/images/headshot.png" alt="headshot" />
+  <img id="headshot" src={headshot} alt="headshot" />
+  
   <br />
   <p>
     I am a full-stack web developer in the making, currently learning
