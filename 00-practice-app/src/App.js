@@ -3,8 +3,8 @@ import NavTabs from './components/NavTabs';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
-import Resume from './components/Resume';
-import { useState} from 'react'
+import Experience from './components/Experience';
+import { useState } from 'react'
 
 
 function App() {
@@ -20,9 +20,9 @@ function App() {
         return <Portfolio />;
       }
       if (currentPage === 'Contact') {
-        return <Contact />;
+        return <Experience />;
       }
-      return <Resume />;
+      return <Contact />;
     };
   
     // changes the value of the state
