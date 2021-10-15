@@ -8,7 +8,7 @@ export default function About() {
       {/* <!-- About--> */}
       <section className="resume-section" id="about">
         <div className="resume-section-content">
-          <h1 className="mb-0">Kimberly Rodriguez</h1>
+          <h2 className="mb-0">Kimberly Rodriguez</h2>
           <div>
             <h3 className="mb-0"><span className="text-primary">Web Developer</span></h3>
           </div>

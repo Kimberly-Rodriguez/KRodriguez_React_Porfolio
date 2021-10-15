@@ -9,7 +9,7 @@ export default function Resume() {
 <section className="resume-section" id="experience">
 <div className="resume-section-content">
     <h2 className="mb-5">Experience</h2>
-    <a className="subheading mb-3" href="assets/images/KimberlyRodriguezResume.png" download>Download Resume </a>
+    <a className="subheading mb-3" href="./images/kimberlyrodriguezResume.png" download>Download Resume </a>
     <br/>
     <br/>
     <div className="resume-section-content">
