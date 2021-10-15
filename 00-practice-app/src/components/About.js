@@ -14,8 +14,7 @@ export default function About() {
           </div>
           <p className="lead mb-5"></p>
           <p>
-            I am a full-stack web developer in the making, currently learning
-            programming languages like React, MySQL and JavaScript.
+            I am a full-stack web developer fluent in programming languages like React, MySQL and JavaScript.
           </p>
           <p>
             Prior to this career shift, I was a civic innovator with more than
@@ -26,9 +25,7 @@ export default function About() {
             development, housing accessibility, and youth leadership.
           </p>
           <p>
-            For additonal details about my work experience please view my resume
-            section or if you simply wish to connect feel free to reference my
-            contact section.
+            For additonal details about my work please view my portfolio and experience section. 
           </p>
           <p>Talk to you soon!</p>
           <br />

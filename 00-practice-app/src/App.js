@@ -19,7 +19,7 @@ function App() {
       if (currentPage === 'Portfolio') {
         return <Portfolio />;
       }
-      if (currentPage === 'Contact') {
+      if (currentPage === 'Experience') {
         return <Experience />;
       }
       return <Contact />;
