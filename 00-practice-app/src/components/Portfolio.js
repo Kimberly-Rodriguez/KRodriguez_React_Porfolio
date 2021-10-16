@@ -56,23 +56,93 @@ export default function Portfolio() {
             
           </div>
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div className="flex-grow-1">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+          <div className="flex-grow-1">
+              <a
+                href="https://parksmart2021.herokuapp.com/"
+                target="_blank"
+                className="mb-0"
+                className="link"
+                alt="project"
+              >
+                <img
+                  className="img"
+                  src={parksmart}
+                  alt="ParkSmart App landing page"
+                />
+                <div>
+                  <h3 className="subtitle">ParkSmart</h3>
+                </div>
+              </a>
+              <div className="subheading mb-3">
+                find public parking by neighborhood
+              </div>
             </div>
-            <div className="flex-shrink-0">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+            
+            <div className="flex-grow-1">
+              <a
+                href="https://parksmart2021.herokuapp.com/"
+                target="_blank"
+                className="mb-0"
+                className="link"
+                alt="project"
+              >
+                <img
+                  className="img"
+                  src={parksmart}
+                  alt="ParkSmart App landing page"
+                />
+                <div>
+                  <h3 className="subtitle">ParkSmart</h3>
+                </div>
+              </a>
+              <div className="subheading mb-3">
+                find public parking by neighborhood
+              </div>
             </div>
           </div>
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div className="flex-grow-1">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+          <div className="flex-grow-1">
+              <a
+                href="https://parksmart2021.herokuapp.com/"
+                target="_blank"
+                className="mb-0"
+                className="link"
+                alt="project"
+              >
+                <img
+                  className="img"
+                  src={parksmart}
+                  alt="ParkSmart App landing page"
+                />
+                <div>
+                  <h3 className="subtitle">ParkSmart</h3>
+                </div>
+              </a>
+              <div className="subheading mb-3">
+                find public parking by neighborhood
+              </div>
             </div>
-            <div className="flex-shrink-0">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+            
+            <div className="flex-grow-1">
+              <a
+                href="https://parksmart2021.herokuapp.com/"
+                target="_blank"
+                className="mb-0"
+                className="link"
+                alt="project"
+              >
+                <img
+                  className="img"
+                  src={parksmart}
+                  alt="ParkSmart App landing page"
+                />
+                <div>
+                  <h3 className="subtitle">ParkSmart</h3>
+                </div>
+              </a>
+              <div className="subheading mb-3">
+                find public parking by neighborhood
+              </div>
             </div>
           </div>
         </div>
