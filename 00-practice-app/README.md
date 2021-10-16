@@ -1,4 +1,4 @@
-# 20 React: React Portfolio
+# React Portfolio
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ To create a portfolio using React that showcases projects and shares contact inf
 
 * Clone the repo (please reference the links below).
 ```md 
-https://github.com/Kimberly-Rodriguez/Workout_Tracker
+git@github.com:Kimberly-Rodriguez/KRodriguez_React_Porfolio.git
 
 ```
 
@@ -36,7 +36,7 @@ The user can:
 
 ![webimage](./src/images/homepage.png)
 
-[Site link](https://intense-sierra-76167.herokuapp.com/)
+[Site link]()
 
 ## Tools
 
