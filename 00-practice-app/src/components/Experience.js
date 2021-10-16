@@ -1,5 +1,6 @@
 import React from 'react';
 import '../App.css';
+import pdf from '../images/kimberlyrodriguezResume.png'
 
 {/* <a href="assets/images/KimberlyRodriguezResume.png" download>Resume</a> */}
 
@@ -9,7 +10,7 @@ export default function Resume() {
 <section className="resume-section" id="experience">
 <div className="resume-section-content">
     <h2 className="mb-5">Experience</h2>
-    <a className="subheading mb-3" href="./images/kimberlyrodriguezResume.png" download>Download Resume </a>
+    <a className="subheading mb-3" href={pdf} download>Download Resume </a>
     <br/>
     <br/>
     <div className="resume-section-content">
@@ -17,7 +18,7 @@ export default function Resume() {
         <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
                 <h3 className="mb-0">Data Programs Lead</h3>
-                <div className="subheading mb-3">City of Los Angeles </div>
+                <div className="subheading mb-3">City of Los Angeles, Office of the Mayor</div>
                 <p>Launched the inaugural Open Data Literacy Program, training over 400+ residents, and increased usage 
                 of open data portals by 40% citiwide, surpassing previous years.
               Reconfigured constituent request portal to better support user experience, improving productivity by 20%

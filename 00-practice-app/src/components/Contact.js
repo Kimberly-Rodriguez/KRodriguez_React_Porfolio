@@ -12,10 +12,7 @@ export default function Contact() {
                 <div className="subheading mb-3">Web Developer</div> --> */}
             <div>
               <div className="subheading mb-5">
-                Los Angeles, CA · (818) 219-5714 ·
-                <a href="mailto:krodriguez.ucla@gmail.com">
-                  krodriguez@gmail.com
-                </a>
+                Los Angeles, CA · (818) 219-5714 · <a href="mailto:krodriguez.ucla@gmail.com"> krodriguez@gmail.com </a>
               </div>
             </div>
           </div>
