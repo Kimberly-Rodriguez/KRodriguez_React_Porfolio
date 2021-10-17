@@ -7,7 +7,7 @@ import Experience from './components/Experience';
 import { useState } from 'react'
 
 
-function App() {
+function   App() {
  
     const [currentPage, setCurrentPage] = useState('About');
   

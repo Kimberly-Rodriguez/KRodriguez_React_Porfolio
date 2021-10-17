@@ -38,7 +38,7 @@ export default function About() {
           </div>
         </div>
       </section>
-      <hr className="m-0" />
+      <hr className="m-0"/>
     </div>
   );
 }

@@ -1,9 +1,23 @@
 import React from "react";
 import "../App.css";
-import parksmart from "../images/parkSmart.png";
+// import parksmart from "../images/parkSmart.png";
+// import jobsearch from "../images/jobsearchApplication.png";
+// import ecommerce from "../images/e_Commerce_Back_End.png";
+// import weatherdash from "../images/weatherDashboard.png";
+// import workday from "../images/workdaySheduler.png";
+// import workouttracker from "../images/fitnessTracker.png";
+import bluesquare from "../images/square.png";
 
 
 export default function Portfolio() {
+
+
+  // Helper function that generates a random width for our placeholder images
+  const randomWidth = () => {
+    const number = Math.random() * (300 - 200) + 200;
+    return number.toString().split('.')[0];
+  };
+
   return (
     <section className="resume-section" id="experience">
       <div className="resume-section-content">
@@ -21,7 +35,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="ParkSmart App landing page"
                 />
                 <div>
@@ -43,7 +57,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="Job Search landing page"
                 />
                 <div>
@@ -67,7 +81,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="E-Commerce landing page"
                 />
                 <div>
@@ -89,7 +103,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="Weather Dashboard landing page"
                 />
                 <div>
@@ -112,7 +126,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="Workday landing page"
                 />
                 <div>
@@ -134,7 +148,7 @@ export default function Portfolio() {
               >
                 <img
                   className="img"
-                  src={parksmart}
+                  src={bluesquare}
                   alt="Workout Tracker landing page"
                 />
                 <div>
