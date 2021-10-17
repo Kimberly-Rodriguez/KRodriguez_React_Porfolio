@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KRodriguez_React_Portfolio/static/css/main.d2cd8979.chunk.css",
+    "main.js": "/KRodriguez_React_Portfolio/static/js/main.25aea873.chunk.js",
+    "main.js.map": "/KRodriguez_React_Portfolio/static/js/main.25aea873.chunk.js.map",
+    "runtime-main.js": "/KRodriguez_React_Portfolio/static/js/runtime-main.0d26b1b6.js",
+    "runtime-main.js.map": "/KRodriguez_React_Portfolio/static/js/runtime-main.0d26b1b6.js.map",
+    "static/js/2.9397b91d.chunk.js": "/KRodriguez_React_Portfolio/static/js/2.9397b91d.chunk.js",
+    "static/js/2.9397b91d.chunk.js.map": "/KRodriguez_React_Portfolio/static/js/2.9397b91d.chunk.js.map",
+    "index.html": "/KRodriguez_React_Portfolio/index.html",
+    "static/css/main.d2cd8979.chunk.css.map": "/KRodriguez_React_Portfolio/static/css/main.d2cd8979.chunk.css.map",
+    "static/js/2.9397b91d.chunk.js.LICENSE.txt": "/KRodriguez_React_Portfolio/static/js/2.9397b91d.chunk.js.LICENSE.txt",
+    "static/media/headshot.61d4d539.png": "/KRodriguez_React_Portfolio/static/media/headshot.61d4d539.png",
+    "static/media/kimberlyrodriguezResume.5b472113.png": "/KRodriguez_React_Portfolio/static/media/kimberlyrodriguezResume.5b472113.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d26b1b6.js",
+    "static/js/2.9397b91d.chunk.js",
+    "static/css/main.d2cd8979.chunk.css",
+    "static/js/main.25aea873.chunk.js"
+  ]
+}
