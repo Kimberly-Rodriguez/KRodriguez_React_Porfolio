@@ -2,7 +2,7 @@
   "name": "00-practice-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kimberly-Rodriguez.github.io/KRodriguez_React_Portfolio",
+  "homepage": "https://kimberly-rodriguez.github.io/KRodriguez_React_Porfolio",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
@@ -22,8 +22,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
+    "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

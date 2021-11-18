@@ -22,19 +22,6 @@ git@github.com:Kimberly-Rodriguez/KRodriguez_React_Porfolio.git
 
 ```
 
-When the user loads the page, they can create a new workout or continue with their last workout.
-
-The user can:
-
-  * Add exercises to the most recent workout plan.
-
-  * Add new exercises to a new workout plan.
-
-  * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
-
-  * View the total duration of each workout from the past seven workouts on the `stats` page.
-
-![webimage](./src/images/homepage.png)
 
 [Site link](https://kimberly-rodriguez.github.io/KRodriguez_React_Porfolio/)
 
