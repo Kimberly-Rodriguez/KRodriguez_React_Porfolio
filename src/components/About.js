@@ -10,11 +10,11 @@ export default function About() {
         <div className="resume-section-content">
           <h2 className="mb-0">Kimberly Rodriguez</h2>
           <div>
-            <h3 className="mb-0"><span className="text-primary">Web Developer</span></h3>
+            <h3 className="mb-0"><span className="text-primary">Software Engineer</span></h3>
           </div>
           <p className="lead mb-5"></p>
           <p>
-            I am a full-stack web developer fluent in programming languages like React, MySQL and JavaScript.
+            I am a software engineer fluent in programming languages and databases like JavaScript, React, and MySQL.
           </p>
           <p>
             Prior to this career shift, I was a civic innovator with more than
