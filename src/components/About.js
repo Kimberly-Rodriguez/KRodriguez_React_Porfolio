@@ -15,17 +15,8 @@ export default function About() {
           </div>
           <p className="lead mb-5"></p>
           <p>
-            I am a software engineer fluent in programming languages and
-            databases like JavaScript, React, and MySQL.
+            I am a software engineer with knowledge of technologies like React, MySQL & JavaScript.
           </p>
-          {/* <p>
-            Prior to this career shift, I was a civic innovator with more than
-            seven years of experience in the highest levels of local government.
-          </p>
-          <p>
-            I led and supported initiatives around open data, economic
-            development, housing accessibility, and youth leadership.
-          </p> */}
           <p>
             For additonal details about my work please view my portfolio and
             experience section.
