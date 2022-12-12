@@ -19,7 +19,7 @@ export default function About() {
             <br>
             For additonal details about my work please view my portfolio and
             experience section.
-            </br>
+            
           </p>
           <p>Talk to you soon!</p>
           <br />
