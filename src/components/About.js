@@ -16,10 +16,10 @@ export default function About() {
           <p className="lead mb-5"></p>
           <p>
             I am a software engineer with knowledge of technologies like React, MySQL & JavaScript.
-          </p>
-          <p>
+            <br>
             For additonal details about my work please view my portfolio and
             experience section.
+            </br>
           </p>
           <p>Talk to you soon!</p>
           <br />
